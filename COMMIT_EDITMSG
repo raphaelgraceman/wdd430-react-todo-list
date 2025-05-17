@@ -1,0 +1,24 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    .gitignore
+#	deleted:    eslint.config.js
+#	deleted:    index.html
+#	deleted:    package-lock.json
+#	deleted:    package.json
+#	deleted:    src/App.jsx
+#	deleted:    src/TodoItem.jsx
+#	deleted:    src/TodoList.jsx
+#	deleted:    src/main.jsx
+#	deleted:    src/newTodoForm.jsx
+#	deleted:    src/style.css
+#	deleted:    vite.config.js
+#
+# Untracked files:
+#	wdd430-react-todo-list/
+#
